@@ -1,4 +1,3 @@
-```markdown
 # Prédiction de la Qualité de l'Air : Londres et Dubaï
 
 Ce dépôt contient le code et l'analyse pour la prédiction de l'Indice de Qualité de l'Air (IQA) à Londres et Dubaï. Le projet utilise des Modèles Linéaires Robustes (RLM) et l'analyse de séries temporelles (SARIMAX) pour comprendre les facteurs influençant l'IQA et prévoir les valeurs futures.
@@ -125,4 +124,3 @@ Ce dépôt contient le code et l'analyse pour la prédiction de l'Indice de Qual
 
 * [cite_start]Patricia KOTO [cite: 14]
 * [cite_start]Waï LEKONE ANTA [cite: 15]
-```
