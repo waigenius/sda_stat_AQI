@@ -59,7 +59,7 @@ Les modèles RLM se sont avérés efficaces pour prédire l'IQA.
 | `saison_été`             | 0.046          | 0.054         | Effet saisonnier significatif dans les deux villes |
 | `log_AQI_lag1`           | 0.494          | 0.485         | Forte persistance de l'AQI                    |
 
-### cite_start]Variabilité des effets
+### Variabilité des effets
 
 * Les facteurs influençant l'IQA ne sont pas stables dans le temps et varient entre Londres et Dubaï.
 * cite_start]Leurs effets varient selon les saisons, les conditions météorologiques et les comportements humains.
