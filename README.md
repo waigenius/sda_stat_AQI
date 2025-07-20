@@ -81,7 +81,12 @@ Les modèles RLM se sont avérés efficaces pour prédire l'IQA.
 
 * **Jeu de données sur la qualité de l'air 2024**: [https://www.kaggle.com/datasets/youssefelebiary/air-quality-2024](https://www.kaggle.com/datasets/youssefelebiary/air-quality-2024) 
 * **Données météorologiques**: [https://www.historique-meteo.net/](https://www.historique-meteo.net/)
-* **Données sur le Toluène et le Benzène à Londres**: [https://uk-air.defra.gov.uk/data/](https://uk-air.defra.gov.uk/data/) 
+* **Données sur le Toluène et le Benzène à Londres**: [https://uk-air.defra.gov.uk/data/](https://uk-air.defra.gov.uk/data/)
+
+## Explications des fichiers
+
+* <img width="1053" height="629" alt="image" src="https://github.com/user-attachments/assets/21b20d66-f4ef-4f84-ae21-ededa3a6f17b" />
+
 
 ## Références
 
