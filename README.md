@@ -85,7 +85,8 @@ Les modèles RLM se sont avérés efficaces pour prédire l'IQA.
 
 ## Explications des fichiers
 
-* <img width="1053" height="629" alt="image" src="https://github.com/user-attachments/assets/21b20d66-f4ef-4f84-ae21-ededa3a6f17b" />
+* <img width="1055" height="631" alt="image" src="https://github.com/user-attachments/assets/7de7f8d7-945d-4d4c-a24e-625ff2f22ad7" />
+
 
 
 ## Références
